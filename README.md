@@ -1,6 +1,8 @@
 - 👋 Hi, I’m @namanagrahari
 - 👀 I’m interested in app development
-- 🌱 I’m currently learning c/c++
+- 🌱 I’m currently learning c/c++ and web development
+- 
+- 
 - 📫 namanagrahari6@gmail.com
 
 <!---
