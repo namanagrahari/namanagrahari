@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @namanagrahari
-- 👀 I’m interested in app development
-- 🌱 I’m currently learning c/c++ and web development
+- I am pursuing my Bachelors in Computer Science and Engineering from Galgotias University.
+- 👀 I’m interested in app and web development.
+- 🌱 I’m currently learning c/c++ and web development.
 - 📫 namanagrahari6@gmail.com
 
 <!---
